@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hashword">
+    <output-path>$PROJECT_DIR$/out/artifacts/hashword</output-path>
+    <root id="archive" name="hashword.jar" />
+  </artifact>
+</component>
